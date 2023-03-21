@@ -1,2 +1,3 @@
 # Calculator
-My best shot...
+
+Tried to stick to OOP
